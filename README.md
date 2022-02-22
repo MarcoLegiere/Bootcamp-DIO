@@ -1,6 +1,6 @@
 #Botecamp DIO FULLSTACK :sunglasses:
 
-### Aqui sera a area que irei atualizar conforme irei realizando as atividades do bootcamp.
+### Aqui será a area que irei atualizar conforme irei realizando as atividades do bootcamp.
 
  - :brain: Boas-vindas ao Bootcamp Eduzz Fullstack Developer #3
  - :brain: Aula inaugural - Eduzz Fullstack Developer #3
